@@ -1,0 +1,8 @@
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+statsmodels>=0.14
+scipy>=1.11
+matplotlib>=3.8
+duckdb>=1.0
+pytest>=8.0

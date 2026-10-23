@@ -1,0 +1,6 @@
+band,n,uplift_pp,p_value,significant_bonferroni
+A,995,0.0492,0.1194,False
+B,1343,0.0617,0.023,False
+C,1633,0.0263,0.2853,False
+D,1873,0.0196,0.385,False
+E,2640,0.0492,0.0093,True

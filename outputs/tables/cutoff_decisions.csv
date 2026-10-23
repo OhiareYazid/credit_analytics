@@ -1,0 +1,7 @@
+strategy,pricing,cutoff,n_approved,approval_rate,bad_rate,expected_bad_rate,booked_amount,total_profit,profit_margin
+Approve all (status quo),flat,470,79193,1.0,0.1809,0.1847,1035869250.0,47851223.7949,0.0462
+Profit-maximising cut-off,flat,555,74245,0.9375,0.1657,0.1692,945387725.0,51640518.126,0.0546
+Risk appetite (bad rate <= 15%),flat,580,64645,0.8163,0.1464,0.1496,794081700.0,49338965.0051,0.0621
+Approve all (status quo),risk_based,470,79193,1.0,0.1809,0.1847,1035869250.0,67998540.3562,0.0656
+Profit-maximising cut-off,risk_based,510,79109,0.9989,0.1804,0.1842,1034470625.0,68074139.1318,0.0658
+Risk appetite (bad rate <= 15%),risk_based,580,64645,0.8163,0.1464,0.1496,794081700.0,46071480.8068,0.058

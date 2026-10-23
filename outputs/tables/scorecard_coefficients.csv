@@ -1,0 +1,8 @@
+feature,coef,iv
+term,-0.8994,0.1238
+dti,-0.4863,0.0742
+revol_util,-0.8968,0.0737
+annual_inc,-1.4969,0.0699
+purpose,-1.0222,0.0363
+verification_status,-0.3218,0.0264
+loan_amnt,-0.9733,0.0239
